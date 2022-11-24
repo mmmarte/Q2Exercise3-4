@@ -1,0 +1,7 @@
+#div1 {border-style: dashed; border-color: #FBFCFC; margin: 50px; padding: 25px; background-color: #AFC8AF}
+#product {font-family: 'Nunito', sans-serif; font-size: 25px; text-align: left; margin-left: 0; margin-right: 0}
+#price {margin-top: 50px; margin-bottom: 25px; font-family: 'Barlow', sans-serif; font-size: 25px; text-align: left}
+body {background-color: #AFE1FA}
+img {height: 25%; width: 25%; margin-right: 0; margin-left: 0; border: 0}
+h1 {font-family: 'Lora', serif; font-size: 50px; text-align: left; margin-top: 0; margin-bottom: 25px}
+button {border: none; border-radius: 0; outline: 0; display: inherit; padding: 10px; color: black; text-align: center; cursor:  pointer; width: 100%s; font-family: 'Barlow', sans-serif; font-size: 25px}
